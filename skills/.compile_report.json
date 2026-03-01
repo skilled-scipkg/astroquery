@@ -1,0 +1,373 @@
+{
+  "compile_memory_path": "skills/.evidence/memory.md",
+  "compiled_package_id": "astroquery",
+  "evidence": {
+    "core_skills": [
+      "astroquery-getting-started",
+      "astroquery-api-and-scripting",
+      "astroquery-examples-and-tutorials",
+      "astroquery-mast",
+      "astroquery-solarsystem",
+      "astroquery-templates"
+    ],
+    "evidence_dir": "skills/.evidence",
+    "files": [
+      "skills/.evidence/astroquery-getting-started.md",
+      "skills/.evidence/astroquery-api-and-scripting.md",
+      "skills/.evidence/astroquery-examples-and-tutorials.md",
+      "skills/.evidence/astroquery-mast.md",
+      "skills/.evidence/astroquery-solarsystem.md",
+      "skills/.evidence/astroquery-templates.md"
+    ]
+  },
+  "generation": {
+    "docs_only": false,
+    "generator_script": "sci-skills-generator/scripts/generate_skills_folder.py",
+    "max_skills": 30,
+    "return_code": 0,
+    "status": "ok"
+  },
+  "mode": "compile",
+  "pass_scope_diffs": {
+    "pass_2": {
+      "added": [
+        "skills/astroquery-advanced-topics/SKILL.md",
+        "skills/astroquery-advanced-topics/references/doc_map.md",
+        "skills/astroquery-advanced-topics/references/source_map.md"
+      ],
+      "changed": [
+        "skills/astroquery-advanced-topics/SKILL.md",
+        "skills/astroquery-advanced-topics/references/doc_map.md",
+        "skills/astroquery-advanced-topics/references/source_map.md",
+        "skills/astroquery-api-and-scripting/SKILL.md",
+        "skills/astroquery-build-and-install/SKILL.md",
+        "skills/astroquery-build-and-install/references/doc_map.md",
+        "skills/astroquery-build-and-install/references/source_map.md",
+        "skills/astroquery-changelog/SKILL.md",
+        "skills/astroquery-changelog/references/doc_map.md",
+        "skills/astroquery-changelog/references/source_map.md",
+        "skills/astroquery-configuration/SKILL.md",
+        "skills/astroquery-configuration/references/doc_map.md",
+        "skills/astroquery-configuration/references/source_map.md",
+        "skills/astroquery-examples-and-tutorials/SKILL.md",
+        "skills/astroquery-getting-started/SKILL.md",
+        "skills/astroquery-index/SKILL.md",
+        "skills/astroquery-license/SKILL.md",
+        "skills/astroquery-license/references/doc_map.md",
+        "skills/astroquery-license/references/source_map.md",
+        "skills/astroquery-mast/SKILL.md",
+        "skills/astroquery-release-notice-v0-2/SKILL.md",
+        "skills/astroquery-release-notice-v0-2/references/doc_map.md",
+        "skills/astroquery-release-notice-v0-2/references/source_map.md",
+        "skills/astroquery-simbad/SKILL.md",
+        "skills/astroquery-simbad/references/doc_map.md",
+        "skills/astroquery-simbad/references/source_map.md",
+        "skills/astroquery-solarsystem/SKILL.md",
+        "skills/astroquery-template/SKILL.md",
+        "skills/astroquery-template/references/doc_map.md",
+        "skills/astroquery-template/references/source_map.md",
+        "skills/astroquery-templates/SKILL.md"
+      ],
+      "deleted": [
+        "skills/astroquery-build-and-install/SKILL.md",
+        "skills/astroquery-build-and-install/references/doc_map.md",
+        "skills/astroquery-build-and-install/references/source_map.md",
+        "skills/astroquery-changelog/SKILL.md",
+        "skills/astroquery-changelog/references/doc_map.md",
+        "skills/astroquery-changelog/references/source_map.md",
+        "skills/astroquery-configuration/SKILL.md",
+        "skills/astroquery-configuration/references/doc_map.md",
+        "skills/astroquery-configuration/references/source_map.md",
+        "skills/astroquery-license/SKILL.md",
+        "skills/astroquery-license/references/doc_map.md",
+        "skills/astroquery-license/references/source_map.md",
+        "skills/astroquery-release-notice-v0-2/SKILL.md",
+        "skills/astroquery-release-notice-v0-2/references/doc_map.md",
+        "skills/astroquery-release-notice-v0-2/references/source_map.md",
+        "skills/astroquery-simbad/SKILL.md",
+        "skills/astroquery-simbad/references/doc_map.md",
+        "skills/astroquery-simbad/references/source_map.md",
+        "skills/astroquery-template/SKILL.md",
+        "skills/astroquery-template/references/doc_map.md",
+        "skills/astroquery-template/references/source_map.md"
+      ],
+      "modified": [
+        "skills/astroquery-api-and-scripting/SKILL.md",
+        "skills/astroquery-examples-and-tutorials/SKILL.md",
+        "skills/astroquery-getting-started/SKILL.md",
+        "skills/astroquery-index/SKILL.md",
+        "skills/astroquery-mast/SKILL.md",
+        "skills/astroquery-solarsystem/SKILL.md",
+        "skills/astroquery-templates/SKILL.md"
+      ]
+    },
+    "pass_3": {
+      "added": [
+        "skills/.compile_report.json",
+        "skills/.evidence/memory.md"
+      ],
+      "changed": [
+        "skills/.compile_report.json",
+        "skills/.evidence/memory.md",
+        "skills/astroquery-api-and-scripting/SKILL.md",
+        "skills/astroquery-api-and-scripting/references/doc_map.md",
+        "skills/astroquery-api-and-scripting/references/source_map.md",
+        "skills/astroquery-examples-and-tutorials/references/doc_map.md",
+        "skills/astroquery-examples-and-tutorials/references/source_map.md",
+        "skills/astroquery-getting-started/SKILL.md",
+        "skills/astroquery-getting-started/references/doc_map.md",
+        "skills/astroquery-getting-started/references/source_map.md",
+        "skills/astroquery-inputs-and-modeling/SKILL.md",
+        "skills/astroquery-inputs-and-modeling/references/doc_map.md",
+        "skills/astroquery-inputs-and-modeling/references/source_map.md",
+        "skills/astroquery-mast/references/doc_map.md",
+        "skills/astroquery-mast/references/source_map.md",
+        "skills/astroquery-simulation-workflows/SKILL.md",
+        "skills/astroquery-simulation-workflows/references/doc_map.md",
+        "skills/astroquery-simulation-workflows/references/source_map.md",
+        "skills/astroquery-solarsystem/SKILL.md",
+        "skills/astroquery-solarsystem/references/doc_map.md",
+        "skills/astroquery-solarsystem/references/source_map.md",
+        "skills/astroquery-templates/references/doc_map.md",
+        "skills/astroquery-templates/references/source_map.md"
+      ],
+      "deleted": [],
+      "modified": [
+        "skills/astroquery-api-and-scripting/SKILL.md",
+        "skills/astroquery-api-and-scripting/references/doc_map.md",
+        "skills/astroquery-api-and-scripting/references/source_map.md",
+        "skills/astroquery-examples-and-tutorials/references/doc_map.md",
+        "skills/astroquery-examples-and-tutorials/references/source_map.md",
+        "skills/astroquery-getting-started/SKILL.md",
+        "skills/astroquery-getting-started/references/doc_map.md",
+        "skills/astroquery-getting-started/references/source_map.md",
+        "skills/astroquery-inputs-and-modeling/SKILL.md",
+        "skills/astroquery-inputs-and-modeling/references/doc_map.md",
+        "skills/astroquery-inputs-and-modeling/references/source_map.md",
+        "skills/astroquery-mast/references/doc_map.md",
+        "skills/astroquery-mast/references/source_map.md",
+        "skills/astroquery-simulation-workflows/SKILL.md",
+        "skills/astroquery-simulation-workflows/references/doc_map.md",
+        "skills/astroquery-simulation-workflows/references/source_map.md",
+        "skills/astroquery-solarsystem/SKILL.md",
+        "skills/astroquery-solarsystem/references/doc_map.md",
+        "skills/astroquery-solarsystem/references/source_map.md",
+        "skills/astroquery-templates/references/doc_map.md",
+        "skills/astroquery-templates/references/source_map.md"
+      ]
+    }
+  },
+  "passes": [
+    {
+      "pass": 1,
+      "return_code": 0,
+      "status": "ok"
+    },
+    {
+      "pass": 2,
+      "return_code": 0,
+      "status": "ok"
+    },
+    {
+      "pass": 3,
+      "return_code": 0,
+      "status": "ok"
+    }
+  ],
+  "profile": {
+    "docs_dirs": [
+      "docs"
+    ],
+    "docs_only": false,
+    "notes": [
+      "No standalone tutorials/examples directory exists; tutorial-style content is embedded across docs/*.rst.",
+      "Most module-level tests are colocated under astroquery/**/tests; astroquery/tests is used as a stable deterministic root for generator setup in this pass.",
+      "Explicit source_dirs is required because the default source-dir candidate list does not include a top-level package directory named astroquery."
+    ],
+    "package_name": "astroquery",
+    "profile_path": "skills/.compile_profile.json",
+    "profile_source": "file",
+    "source_dirs": [
+      "astroquery"
+    ],
+    "test_dirs": [
+      "astroquery/tests"
+    ],
+    "tutorial_dirs": [],
+    "warnings": []
+  },
+  "project_root": "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/astroquery-astroquery",
+  "run_id": "compile_20260301T041649670647Z",
+  "skill_plan": {
+    "available_skill_ids": [
+      "astroquery-api-and-scripting",
+      "astroquery-build-and-install",
+      "astroquery-changelog",
+      "astroquery-configuration",
+      "astroquery-examples-and-tutorials",
+      "astroquery-getting-started",
+      "astroquery-index",
+      "astroquery-inputs-and-modeling",
+      "astroquery-license",
+      "astroquery-mast",
+      "astroquery-release-notice-v0-2",
+      "astroquery-simbad",
+      "astroquery-simulation-workflows",
+      "astroquery-solarsystem",
+      "astroquery-template",
+      "astroquery-templates"
+    ],
+    "core_skill_ids": [
+      "astroquery-getting-started",
+      "astroquery-api-and-scripting",
+      "astroquery-examples-and-tutorials",
+      "astroquery-mast",
+      "astroquery-solarsystem",
+      "astroquery-templates"
+    ],
+    "deferred_gaps": [
+      "No dedicated tutorials/examples directory; examples are embedded in docs pages and need extraction during enrichment.",
+      "Module-level tests are highly distributed under astroquery/**/tests and are only partially represented by astroquery/tests in pass 1 profile.",
+      "Generator source discovery still requires explicit --source-dirs astroquery for this package layout."
+    ],
+    "goal": "Pass 2/3 targeted refresh and Pass 3 audit for high-impact Astroquery routing skills under deterministic generation.",
+    "mode": "compile",
+    "priority_skills": [
+      {
+        "action": "refresh",
+        "must_cover": [
+          "Route user requests to generated topic skills by intent and service family",
+          "Enforce docs-first escalation before source inspection",
+          "Point long-tail requests to consolidated advanced topics if topic count grows"
+        ],
+        "reason": "This is the router for a large multi-service package and must prevent misrouting across many narrow topics.",
+        "skill_id": "astroquery-index",
+        "source_hints": [
+          "docs/index.rst",
+          "docs/query.rst",
+          "docs/configuration.rst",
+          "skills/"
+        ]
+      },
+      {
+        "action": "refresh",
+        "must_cover": [
+          "Install and upgrade paths including pre-release usage",
+          "Minimal query_object/query_region workflow",
+          "Basic cache and configuration entry points"
+        ],
+        "reason": "Most first-week questions are installation, setup, and first query workflow issues.",
+        "skill_id": "astroquery-getting-started",
+        "source_hints": [
+          "docs/index.rst",
+          "README.rst",
+          "docs/configuration.rst"
+        ]
+      },
+      {
+        "action": "refresh",
+        "must_cover": [
+          "Common synchronous and asynchronous query patterns",
+          "Table/result handling and serialization behavior",
+          "TAP usage and upload/query workflow references"
+        ],
+        "reason": "Cross-service API consistency and TAP utilities are core for practical usage and automation.",
+        "skill_id": "astroquery-api-and-scripting",
+        "source_hints": [
+          "docs/query.rst",
+          "docs/utils/tap.rst",
+          "astroquery/utils/tap",
+          "astroquery/query.py"
+        ]
+      },
+      {
+        "action": "create",
+        "must_cover": [
+          "Curate minimal runnable examples from high-traffic services",
+          "Map example snippets to corresponding module docs",
+          "Flag remote-data/auth-required examples clearly"
+        ],
+        "reason": "Examples are dispersed in module docs; a focused router reduces time-to-first-working-command.",
+        "skill_id": "astroquery-examples-and-tutorials",
+        "source_hints": [
+          "docs/*/*.rst",
+          "docs/esa/**/*.rst",
+          "docs/solarsystem/**/*.rst"
+        ]
+      },
+      {
+        "action": "create",
+        "must_cover": [
+          "Cache invalidation and stale-response triage",
+          "Authentication/keyring failure patterns",
+          "Remote-data test and reproducibility checks"
+        ],
+        "reason": "Network/auth/cache failures and service-side variability are common and high-friction for users.",
+        "skill_id": "astroquery-templates",
+        "source_hints": [
+          "docs/index.rst",
+          "docs/testing.rst",
+          "astroquery/exceptions.py",
+          "conftest.py"
+        ]
+      },
+      {
+        "action": "refresh",
+        "must_cover": [
+          "Observation, catalog, and mission query pathways",
+          "Data retrieval and cutout workflows",
+          "Common parameter and pagination pitfalls"
+        ],
+        "reason": "MAST has multi-page docs and broad user demand, making it a high-impact module-specific skill.",
+        "skill_id": "astroquery-mast",
+        "source_hints": [
+          "docs/mast/mast.rst",
+          "docs/mast/mast_obsquery.rst",
+          "docs/mast/mast_catalog.rst",
+          "astroquery/mast"
+        ]
+      }
+    ],
+    "version": 1,
+    "warnings": []
+  },
+  "skill_plan_path": "skills/.evidence/skill_plan.json",
+  "validation": {
+    "core_skills_checked": [
+      "astroquery-examples-and-tutorials",
+      "astroquery-getting-started",
+      "astroquery-api-and-scripting",
+      "astroquery-solarsystem",
+      "astroquery-advanced-topics",
+      "astroquery-mast"
+    ],
+    "docs_only": false,
+    "errors": [
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/astroquery-astroquery/skills/astroquery-examples-and-tutorials/SKILL.md: playbook missing required element containing 'convergence/validation'.",
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/astroquery-astroquery/skills/astroquery-getting-started/SKILL.md: playbook missing required element containing 'convergence/validation'.",
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/astroquery-astroquery/skills/astroquery-api-and-scripting/SKILL.md: playbook missing required element containing 'convergence/validation'.",
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/astroquery-astroquery/skills/astroquery-solarsystem/SKILL.md: playbook missing required element containing 'convergence/validation'.",
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/astroquery-astroquery/skills/astroquery-advanced-topics/SKILL.md: missing `## High-Signal Playbook` section.",
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/astroquery-astroquery/skills/astroquery-mast/SKILL.md: playbook missing required element containing 'convergence/validation'."
+    ],
+    "index_skills": [
+      "astroquery-index"
+    ],
+    "missing_planned_skills": [],
+    "ok": false,
+    "planned_skill_ids": [
+      "astroquery-index",
+      "astroquery-getting-started",
+      "astroquery-api-and-scripting",
+      "astroquery-examples-and-tutorials",
+      "astroquery-templates",
+      "astroquery-mast"
+    ],
+    "previous_source_inventory": {},
+    "skills_total": 10,
+    "source_inventory": {},
+    "source_links_total": 79,
+    "topic_skills": 9,
+    "warnings": []
+  }
+}
